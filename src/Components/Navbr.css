@@ -1,0 +1,19 @@
+.Nav-Opt{
+    padding-left: 300px;
+}
+.Logo{
+    color: white !important;
+}
+.Home{
+    color: white !important;
+}
+.About{
+    color: white !important;
+}
+
+.Contact{
+    color: white !important;
+}
+.header-style{
+    background: linear-gradient(to right, #0b1a5e 0%, #345ee6 31%, #345ee5 69%, #0b1a5e 100%) !important;
+}

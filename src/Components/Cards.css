@@ -1,0 +1,10 @@
+.Card1-Style, .Card2-Style, .Card3-Style {
+       margin-top: 30px;
+       margin-bottom: 30px;
+}
+.image-karachi {
+    height: 190px;
+}
+.card-col{
+    justify-content: center;
+}
